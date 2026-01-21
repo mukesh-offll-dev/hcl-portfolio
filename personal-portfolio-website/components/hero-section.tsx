@@ -16,7 +16,7 @@ export function HeroSection() {
               Hello, I&apos;m
             </p>
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-foreground mb-6 animate-in fade-in slide-in-from-bottom-4 duration-500 delay-100 text-balance">
-              Your Name
+              Mukesh
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground mb-8 animate-in fade-in slide-in-from-bottom-4 duration-500 delay-200">
               Aspiring Software Developer
